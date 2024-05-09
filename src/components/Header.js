@@ -1,8 +1,8 @@
 import Link from "next/link";
-import MenuItems from "./MenuItems";
 import { AiFillHome } from "react-icons/ai";
 import { BsFillInfoCircleFill } from "react-icons/bs";
 import DarkModeSwitch from "./DarkModeSwitch";
+import MenuItems from "./MenuItems";
 
 
 const Header = () => {
